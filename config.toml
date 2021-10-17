@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "localhost"
+baseURL = ""
 title = "Bookworm - Personal Blog Template"
 theme = "bookworm-light"
 # post pagination

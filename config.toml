@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = ""
+baseURL = "https://clever-torvalds-87b72a.netlify.app/"
 title = "Bookworm - Personal Blog Template"
 theme = "bookworm-light"
 # post pagination

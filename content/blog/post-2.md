@@ -1,7 +1,7 @@
 ---
 title: "Membuat Simpel Face  Detection Dengan OpenCV dan Python"
 description: "meta description"
-image: "images/post/03.jpg"
+image: "images/post/001.jpg"
 date: 2021-01-25T11:33:57+06:00
 author: "Arfan yoga"
 tags: ["python", "pemrograman", ]

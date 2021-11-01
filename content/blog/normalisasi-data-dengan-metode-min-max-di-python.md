@@ -6,10 +6,10 @@ date: 2021-01-25T11:33:57+06:00
 author: "Arfan yoga"
 tags: ["python", "pemrograman", "data mining"]
 categories: ["python"]
-draft: false
+draft: true
 ---
 <div style="text-align: justify">
-Di tutorial kali ini kita akan membuat program face detection, terdengar sulit mungkin, tapi disini Saya akan mencoba menjelaskannya sesimpel mungkin. baik langsung saja kita persiapkan file file yang kita perlukan
+Di tutorial kali ini saya akan mencoba menjelaskan cara melakukan normalisasi data dengan metode min max menggunakan modul sklearn yang ada di python, 
 </div>
 
 ### Perisapan
